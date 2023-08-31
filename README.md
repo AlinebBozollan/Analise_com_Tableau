@@ -16,7 +16,6 @@ O repositório está organizado da seguinte maneira:
 
 * graficos: Pasta que contém capturas de tela das visualizações criadas no Tableau.
 
-README: Este arquivo README com informações sobre o projeto.
 ---
 
 ## Instruções
